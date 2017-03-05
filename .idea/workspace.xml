@@ -2,254 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abace649-7f00-4830-93e7-701af2680e0b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00000.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00001.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00002.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00003.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00004.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00005.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00006.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00007.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00008.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00009.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00010.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00011.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00012.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00013.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00014.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00015.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00016.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00017.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00018.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00019.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00020.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00021.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00022.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00023.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00024.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00025.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00026.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00027.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00028.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00029.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00030.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00031.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00032.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00033.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00034.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00035.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00036.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00037.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00038.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00039.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00040.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00041.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00042.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00043.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00044.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00045.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00046.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00047.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00048.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00049.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00050.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00051.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00052.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00053.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00054.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00055.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00056.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00057.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00058.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00059.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00060.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00061.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00062.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00063.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00064.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00065.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00066.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00067.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00068.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00069.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00070.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00071.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00072.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00073.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00074.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00075.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00076.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00077.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00078.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00079.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00080.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00081.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00082.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00083.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00084.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00085.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00086.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00087.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00088.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00089.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00090.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00091.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00092.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00093.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00094.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00095.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00096.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00097.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00098.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00099.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00100.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00101.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00102.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00103.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00104.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00105.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00106.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00107.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00108.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00109.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00110.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00111.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00112.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00113.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00114.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00115.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00116.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00117.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00118.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00119.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00120.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00121.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00122.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00123.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00124.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00125.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00126.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00127.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00128.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00129.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00130.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00131.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00132.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00133.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00134.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00135.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00136.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00137.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00138.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00139.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00140.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00141.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00142.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00143.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00144.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00145.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00146.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00147.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00148.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00149.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00150.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00151.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00152.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00153.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00154.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00155.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00156.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00157.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00158.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00159.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00160.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00161.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00162.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00163.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00164.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00165.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00166.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00167.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00168.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00169.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00170.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00171.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00172.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00173.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00174.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00175.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00176.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00177.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00178.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00179.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00180.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00181.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00182.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00183.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00184.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00185.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00186.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00187.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00188.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00189.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00190.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00191.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00192.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00193.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00194.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00195.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00196.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00197.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00198.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00199.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00200.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00201.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00202.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00203.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00204.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00205.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00206.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00207.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00208.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00209.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00210.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00211.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00212.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00213.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00214.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00215.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00216.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00217.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00218.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00219.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00220.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00221.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00222.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00223.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00224.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00225.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00226.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00227.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00228.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00229.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00230.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00231.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00232.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00233.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00234.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00235.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00236.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00237.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00238.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/image-00239.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/zerbafish-neuroimaging.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/SUCCESS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/conf.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run-imaging.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -277,8 +30,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="69" lean-forward="false" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
+            <state relative-caret-position="51">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -617,7 +370,7 @@
     <option name="totallyTimeSpent" value="21000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="22" width="1378" height="754" extended-state="1" />
+    <frame x="-8" y="22" width="1378" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -696,8 +449,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="69" lean-forward="false" selection-start-line="0" selection-start-column="69" selection-end-line="0" selection-end-column="69" />
+        <state relative-caret-position="51">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
           <folding />
         </state>
       </provider>
